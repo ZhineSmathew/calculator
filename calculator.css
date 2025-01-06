@@ -1,0 +1,39 @@
+.cal{
+    width: 500px;
+    height: 600px;
+    background-color: gray;
+    margin-left: 600px;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+.output-screen #output {
+    width: 85%;
+    height: 100px;
+    margin-left: 36px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    pointer-events: none;
+    text-align: center;
+    text-size-adjust: 40%;
+}
+#output{
+    border-radius: 10px;
+}
+.btn-click{
+    width: 80px;
+    height: 80px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+.row .btn-click-clear{
+    width: 80px;
+    height: 80px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+.row .btn-click-total{
+    width: 80px;
+    height: 80px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
